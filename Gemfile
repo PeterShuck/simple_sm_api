@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+# I'm thinking about making some changes around here
 ruby "3.2.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
